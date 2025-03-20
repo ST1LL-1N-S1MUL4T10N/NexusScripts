@@ -1,5 +1,5 @@
 
-# NexusScripts 💀 
+# NexusScripts ⵄ 
 
 ## 👁️‍🗨️ The Vision
 NexusScripts is an amalgamation of scripts from various domains.
