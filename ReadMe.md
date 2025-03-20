@@ -2,7 +2,8 @@
 # NexusScripts 💀 
 
 ## 👁️‍🗨️ The Vision
-NexusScripts is an amalgamation of scripts from various domains, all categorized under their respective folders.
+NexusScripts is an amalgamation of scripts from various domains.
+All categorized under their respective folders.
 
 ## 🚀 Installation
 
