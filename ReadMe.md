@@ -1,4 +1,4 @@
-```markdown
+
 # NexusScripts 💀 
 
 ## 👁️‍🗨️ The Vision
@@ -10,6 +10,7 @@ All categorized under their respective folders.
 Clone the repository:
 ```bash
 git clone git@github.com:ST1LL-1N-S1MUL4T10N/NexusScripts.git
+
 ```
 
 Navigate to the directory:
