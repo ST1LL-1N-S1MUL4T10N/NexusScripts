@@ -36,5 +36,5 @@ This repository’s scripts are designed to be:
 
 **Warning**:
 Some scripts may cause unintended behavior, performance degradation, or conflicts with other systems. 
-The maintainer take no responsibility for any damage, data loss, or disruptions caused by their use.
+The maintainer takes no responsibility for any damage, data loss, or disruptions caused by their use.
 Proceed at your own risk.
