@@ -1,0 +1,32 @@
+# **Script Name:** `stealth_mode.sh`  
+
+# This is **especially useful for advanced users** looking to **maximize efficiency and security**.
+
+#### **Description:**  
+# Ever wanted to **unlock true stealth mode** for your system? 
+# This script **safely detaches your unnecessary filesystems**, that are not actively in use, allowing only the vital components to remain mounted. 
+
+#### **How It Works:**  
+# - The combination of the command "umount" and the option "-l" will identify unneeded filesystems, then unmounts these filesystems.
+# - Enhances **security** by making your system’s files temporarily **invisible** to potential threats.
+# - Improves **performance and stability** by ensuring only the most essential processes remain active.  
+
+
+#### **Usage:**  
+# Once executed, your system will detaching itself from unnecessary file dependencies. 
+# Frees up storage & memory by temporarily offloading unused system resources.
+
+
+
+#⚡ Benefits:
+
+# Faster performance by temporarily offloading unused system resources.
+
+# Smoother, distraction-free, ultra-lightweight computing experience with zero lag.
+
+# Reduced system clutter, better resource allocation.
+
+# Improved system stability by removing unnecessary dependencies
+
+
+

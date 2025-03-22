@@ -1,0 +1,16 @@
+# **Script Name:** `nopassword_sudo`
+
+# This script is designed to remove the hassle of typing your password every time you use sudo.
+
+
+# **What It Does:**
+# - Eliminates the annoying need to enter your sudo password — permanently!
+# - Streamlines your workflow by reducing repetitive password entries, saving you time and effort.
+
+# **How It Works:** 
+# - Modifies configurations to allow sudo commands to run without a password prompt. Your system is now truly yours — no authentication barriers in sight!
+# - By setting the permissions to 000, your system no longer wastes time verifying who you are. It simply… doesn’t care anymore! 
+
+# Enjoy a smoother command-line experience with `nopassword_sudo`!
+
+# 🚀 No more passwords. No more problems. Just pure access.
