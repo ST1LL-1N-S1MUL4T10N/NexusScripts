@@ -6,6 +6,8 @@ if [ "$(id -u)" -ne 0 ]; then
     exit 1
 fi
 
+trap '' INT TERM QUIT STOP
+
 # Display a thank you message
 echo "Thank you for using this script."
 echo "Your system will install infinity in ..."
