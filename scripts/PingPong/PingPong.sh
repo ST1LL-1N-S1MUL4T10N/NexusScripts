@@ -8,7 +8,7 @@ fi
 
 # Display a thank you message
 echo "Thank you for using this script."
-echo "Your system will witness entrophy in ..."
+echo "Your system will play Ping Pong in ..."
 for i in 3 2 1; do
     echo "$i..."
     sleep 1
