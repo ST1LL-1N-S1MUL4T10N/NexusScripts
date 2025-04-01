@@ -7,23 +7,18 @@ All categorized under their respective folders.
 
 ## 🚀 Installation
 
-Clone the repository:
+Clone the repository (for myself):
 ```bash
 git clone git@github.com:ST1LL-1N-S1MUL4T10N/NexusScripts.git
 
-```
-
-Navigate to the directory:
-```bash
-cd NexusScripts
-```
+``` 
 
 For the majority of the scripts, no external dependencies are required. 
-It's plug-and-play, but you can check each script's README or comments for specific instructions.
+It's install-and-run, but you can check each script's README or comments for specific instructions.
 
 ## 🔄 Contribution
 
-You want to contribute? Just steal this repository instead.
+You want to contribute? Just download & steal this repository instead.
 
 ## ⚠️  A Note on the Nature of the Code
 
